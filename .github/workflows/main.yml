@@ -40,4 +40,4 @@ jobs:
           git --version
           mvn --version
           echo
-          ant -verion
+          ant -version
